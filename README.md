@@ -1,4 +1,4 @@
-<font style="color:red">#*Hi there my name is Rashid👋*</font>
+<font style="color:red">*Hi there my name is Rashid👋*</font>
   
   <br>
 <div>
