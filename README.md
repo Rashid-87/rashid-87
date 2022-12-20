@@ -1,5 +1,8 @@
-# *Hi there my name is Rashid👋*
-
+<div>
+  <br>
+  # *Hi there my name is Rashid👋*
+    <br>
+  </div>
 
 <div>
   <a href="https://github.com/rashid-87">
