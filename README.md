@@ -31,6 +31,6 @@
  <a href="https://vk.com/id331080270"><img src="https://camo.githubusercontent.com/acadedc5634bfdb4d3b5b3a8e6c832f7d261606040a38a7943298cdbd09b6a3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d566b266c6f676f436f6c6f723d323741304439" alt="VK" data-canonical-src="https://img.shields.io/badge/-VK-333?style=for-the-badge&amp;logo=Vk&amp;logoColor=27A0D9" height="28" style="width: 80px;"></a>
  <a href="https://github.com/rashid-87"><img src="https://camo.githubusercontent.com/b256c04b53615f6e8d75481ea7b916143c83dbe2031e07dba72abbdcdff11721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d666666" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&amp;logo=GitHub&amp;logoColor=fff" style="max-width: 100%;"></a>
 
-<a href="https://github.com/<seuusername>/<seuusername>/blob/output/github-contribution-grid-snake2.svg">
+![snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
