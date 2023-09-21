@@ -4,7 +4,7 @@
   
 <div>
   <a href="https://github.com/rashid-87">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rashid-87&show_icons=true&langs_count=7&theme=dracula/>
   <img height="180px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-87&langs_count=7&theme=dracula"/>
 <!--    https://github-readme-stats.vercel.app/api?username=rashid-87&show_icons=true&langs_count=7&theme=dracula -->
 </div>
