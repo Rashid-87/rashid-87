@@ -19,6 +19,8 @@
 <img src="https://camo.githubusercontent.com/dbe1d254172d29511694c1a3b829b18b73a55e1a0465ead8a489476fe7c869bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&amp;logo=GitHub" height="30" max-width="100%">
 </div>
 
+
+
 <div> 
   <a href="https://www.instagram.com/rashid_mamyrov/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -26,7 +28,9 @@
  <a href="https://www.facebook.com/profile.php?id=100010554607945" rel="nofollow"><img src="https://camo.githubusercontent.com/41f39a64ce9a6157ba73462c82b72c7314a96ae8b2e052efd487ddcd6a3f5602/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333342353939382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/facebook-%233B5998.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://vk.com/id331080270"><img src="https://camo.githubusercontent.com/acadedc5634bfdb4d3b5b3a8e6c832f7d261606040a38a7943298cdbd09b6a3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d566b266c6f676f436f6c6f723d323741304439" alt="VK" data-canonical-src="https://img.shields.io/badge/-VK-333?style=for-the-badge&amp;logo=Vk&amp;logoColor=27A0D9" height="28" style="width: 80px;"></a>
  <a href="https://github.com/rashid-87"><img src="https://camo.githubusercontent.com/b256c04b53615f6e8d75481ea7b916143c83dbe2031e07dba72abbdcdff11721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d666666" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&amp;logo=GitHub&amp;logoColor=fff" style="max-width: 100%;"></a>
+ 
 ##
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
