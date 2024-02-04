@@ -11,6 +11,7 @@
 ##
   
 <div> <br>
+ https://camo.githubusercontent.com/94d2568965d92f309b090ba1e8e01664bc7655910f4cca3e358926f903c05419/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35
 <img alt="html5" src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"  height="29" style="width: 50;">
 <img src="https://camo.githubusercontent.com/2b49b2bf90302cbf8d066b13547d85bf09ecef2ed4274f82b6605d9a847eb286/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d626c7565" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&amp;logo=css3&amp;logoColor=blue" height="30" width="100">
 <img src="https://camo.githubusercontent.com/cfeaea98a9f65923317edbc557ecd2bb1117b59c21c8c357aa86299e44bf5a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534153532d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353" alt="SASS" data-canonical-src="https://img.shields.io/badge/-SASS-333?style=for-the-badge&amp;logo=SASS" height="30" width="100">
@@ -22,6 +23,7 @@
 ###
 
 <div> 
+ 
   <a href="https://www.instagram.com/rashid_mamyrov/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://t.me/rashid_1987"><img src="https://camo.githubusercontent.com/32d301601badedb14ef7a1e56431bdc934779610de1561291873b6899e67d434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&amp;logo=telegram&amp;logoColor=27A0D9" style="max-width: 100%;"></a>
