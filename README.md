@@ -21,7 +21,7 @@
 
 ### 
 
-<img src="https://file.notion.so/f/f/1e433f19-a200-4877-9047-59e80d2a06fd/ca4fd0b1-0f5e-4aed-bd87-b5d3ae6fe110/emljB.gif?id=949e744e-5e69-4421-88e9-ba86206994f8&table=block&spaceId=1e433f19-a200-4877-9047-59e80d2a06fd&expirationTimestamp=1707127200000&signature=-MSgRaZKB7sA7ho34QUE8wJdYlVxNtybmWuT2iMP28w" height="30" max-width="100%">
+<img src="https://file.notion.so/f/f/1e433f19-a200-4877-9047-59e80d2a06fd/ca4fd0b1-0f5e-4aed-bd87-b5d3ae6fe110/emljB.gif?id=949e744e-5e69-4421-88e9-ba86206994f8&table=block&spaceId=1e433f19-a200-4877-9047-59e80d2a06fd&expirationTimestamp=1707127200000&signature=-MSgRaZKB7sA7ho34QUE8wJdYlVxNtybmWuT2iMP28w" height="300px" max-width="100%">
 
 ###
 
