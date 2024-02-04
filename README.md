@@ -28,7 +28,7 @@
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
      target="_blank">
 </a> 
-<a href="https://t.me/rashid_1987"><img src="https://camo.githubusercontent.com/a7803d8916ce758de70a5a1b9b17c26d048d813e1c3915425a15cfb7903a02a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656     772616d2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical- 
+<a href="https://t.me/rashid_1987"><img src="https://camo.githubusercontent.com/a7803d8916ce758de70a5a1b9b17c26d048d813e1c3915425a15cfb7903a02a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical- 
      src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&amp;logo=telegram&amp;logoColor=27A0D9" style="max-width: 100%;">
  </a>
  <a href="https://www.facebook.com/profile.php?id=100010554607945" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" data-canonical-src="https://img.shields.io/badge/facebook-%233B5998.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
