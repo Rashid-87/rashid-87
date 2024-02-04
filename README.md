@@ -18,6 +18,8 @@
 <img src="https://camo.githubusercontent.com/4378914fea34174f99f303aa2ab2238391118bcdbfd852eb3a3f336854c551f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333?style=for-the-badge&amp;logo=Git" height="30" width="100">
 <img src="https://camo.githubusercontent.com/da407a06b16437d7435dfc4b305d65b710485b26d9fe8557e724ff263da58e56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&amp;logo=GitHub" height="30" max-width="100%">
 
+###
+
 <a href="https://www.instagram.com/rashid_mamyrov/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
      target="_blank">
 </a>
@@ -35,7 +37,7 @@
 </a>
  
  </div>
-<br>
+
 <div>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
