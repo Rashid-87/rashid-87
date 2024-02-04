@@ -22,7 +22,7 @@
 ###
 
 <div> 
- ![image](https://github.com/rashid-87/rashid-87/assets/88425347/394437b0-9824-40d6-9d95-3b98f44724ec)
+ https://camo.githubusercontent.com/eb0fcd2c130ee8d446f7304478af7db908ba41259b507ad8079ced186c015f99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d423430363845
   <a href="https://www.instagram.com/rashid_mamyrov/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://t.me/rashid_1987"><img src="https://camo.githubusercontent.com/32d301601badedb14ef7a1e56431bdc934779610de1561291873b6899e67d434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&amp;logo=telegram&amp;logoColor=27A0D9" style="max-width: 100%;"></a>
