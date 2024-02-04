@@ -35,9 +35,10 @@
 </a>
 <a href="https://github.com/rashid-87"><img src="https://camo.githubusercontent.com/da407a06b16437d7435dfc4b305d65b710485b26d9fe8557e724ff263da58e56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&amp;logo=GitHub&amp;logoColor=fff" style="max-width: 100%;">
 </a></div>
-<div> 
+
+<div> <br>
  
-<picture> <br>
+<picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
